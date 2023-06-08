@@ -1,0 +1,38 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+
+th,
+td {
+
+  text-align: left;
+  font-weight: bold;
+  border-bottom: 1px solid #ffffff;
+  border: 1px solid black;
+}
+
+th {
+  background-color: #808080;
+}
+
+#row1 {
+  background-color: #808080;
+}
+#cols{
+  font-size: 13px;
+  text-align: center;
+   white-space:pre
+
+}
+#break{
+  background-color: #808080;
+  text-align: center;
+}
+#tr1{
+  padding: 28px;
+}
+th{
+  padding: 28px;
+}
